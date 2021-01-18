@@ -1,0 +1,15 @@
+{
+	"name": "hamtil/simpleHtmlWebalizer",
+	"description": "Integrates web html templates for use in the Nette framework.",
+	"keywords": ["nette", "utility"],
+	"license": ["BSD-3-Clause", "GPL-2.0-only", "GPL-3.0-only"],
+	"authors": [
+		{
+			"name": "Petr Hamtil",
+			"homepage": "https://www.petrhamtil.cz"
+		}
+	],
+	"require": {
+		"php": ">=7.2 <8.1"
+	}
+}
